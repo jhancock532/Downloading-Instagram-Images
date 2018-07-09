@@ -21,4 +21,5 @@
 ## Extra!
 
 - You could use this with any HTML file or website. I choose picbear because no thumbnails, just fullsize insta images and nothing else.
+- Pester the creator for compilants, advice, etc at @jh531
 
