@@ -5,7 +5,7 @@
 * Search for the account name here -> http://picbear.online/
 * Proceed to load all of the users images by scrolling to the very bottom of the screen, where no more images load. 
 * Open up developer tools for your browser and copy all of the relevant HTML into a text file. 
-* Load up the python script in an IDE, ensure that you have all the right libraries, rename in the input text file path and run it. 
+* Load up the python script in an IDE, ensure that you have all the libraries, rename in the input text file path and run it. 
 
 ## Warnings
 This program will also download preview stills of video posts.
