@@ -8,10 +8,10 @@
 * Load up the python script in an IDE, ensure that you have all the libraries, rename in the input text file path and run it. 
 
 ## Warnings
-This program will also download preview stills of video posts.
-You should be using an adblocker or else you shall see advertisment images as well, which you probably don't want to download.
-The code is so simple it names the files without any leading zeros.
-If you want to delete the "pointless" opencv code, be warned that most of the instagram images don't have metadata which means most of your editor / viewing programs will hate them. Easy fix is to compress them a tad, and resave to create valid metadata.
+- This program will also download preview stills of video posts.
+- You should be using an adblocker or else you shall see advertisment images as well, which you probably don't want to download.
+- The code is so simple it names the files without any leading zeros.
+- If you want to delete the "pointless" opencv code, be warned that most of the instagram images don't have metadata which means most of your editor / viewing programs will hate them. Hacky fix is to compress them a tad, and resave to create valid metadata using opencv.
 
 ---
 ## Websites I referenced while creating this.
