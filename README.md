@@ -1,4 +1,4 @@
-# Download All The Instagram Images
+# Download All The Images (from an insta account)
 
 ---
 ## Instructions
