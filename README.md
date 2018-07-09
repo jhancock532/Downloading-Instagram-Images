@@ -1,5 +1,4 @@
 # Download All The Images (from an insta account)
-
 ---
 ## Instructions
 * Search for the account name here -> http://picbear.online/
@@ -18,3 +17,8 @@
 
 - https://www.meccanismocomplesso.org/en/opencv-python-load-display-save-images/ (How to open cv)
 - https://stackoverflow.com/questions/30229231/python-save-image-from-url/30229298 (How to save images from urls)
+
+## Extra!
+
+- You could use this with any HTML file or website. I choose picbear because no thumbnails, just fullsize insta images and nothing else.
+
