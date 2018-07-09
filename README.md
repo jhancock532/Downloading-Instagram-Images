@@ -1,4 +1,4 @@
-# Download All The Images (from an insta account)
+# Download All The Images
 ---
 ## Instructions
 * Search for the account name here -> http://picbear.online/
