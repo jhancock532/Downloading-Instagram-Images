@@ -16,5 +16,5 @@
 ---
 ## Websites I referenced while creating this.
 
-https://www.meccanismocomplesso.org/en/opencv-python-load-display-save-images/
-https://stackoverflow.com/questions/30229231/python-save-image-from-url/30229298 
+- https://www.meccanismocomplesso.org/en/opencv-python-load-display-save-images/ (How to open cv)
+- https://stackoverflow.com/questions/30229231/python-save-image-from-url/30229298 (How to save images from urls)
